@@ -121,7 +121,7 @@ function Operation (Op)
 			else if ( '^' == PendingOp )
 				Currents = Math.pow(Currents, parseFloat(Readout));
 			else if ( '/^' == PendingOp )
-				Currents = Math.sqrt(Currents);
+				Currents = Math.pow(Currents, 1/2);
 			else
 				Currents = parseFloat(Readout);
 			Fcalc.ReadOut.value = Currents;
