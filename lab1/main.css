@@ -23,6 +23,11 @@
 	left: 201px;
 }
 
+#header div{
+	
+	
+}
+
 #sidebar{
 	width: 598px;
 	position: relative;
@@ -73,7 +78,6 @@ ul li{
 	margin: 0;
 	padding:0;
 	display: inline;
-	
 }
 
 #nav ul li a{
@@ -116,7 +120,4 @@ h2{
 	
 }
 
-#img{
-	
-	
-}
+
