@@ -79,6 +79,8 @@ ul li{
 #nav ul li a{
 	padding: 0 20 px;
 	line-height: 40px;
+	text-align: center;
+	
 }
 
 #nav ul li a:hover, #nav u lli a.active{
@@ -111,5 +113,10 @@ h2{
 	text-transform: uppercase;
 	font-weight: bold;
 	text-decoration: none;
+	
+}
+
+#img{
+	
 	
 }
